@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gldpanda19, but you can call me Garrett
-- 👀 I’m interested in natural language processing, blockchain and smart contracts, and DEFI ecosystems
-- 🌱 I’m currently learning how to use GitHub in conjuction with R and Python
-- 💞️ I’m looking to collaborate on... nothing atm
+- 🧠 I’m interested in the application of machine learning to financial analytics, including the adaptation of qualitative data, as well as decentralized finance (DeFi)
+- 🌱 I’m currently learning how to develop, implement, and optimize machine learning models with Python
 
 <!---
 gldpanda19/gldpanda19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

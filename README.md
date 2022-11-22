@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gldpanda19, but you can call me Garrett
-- 🧠 I’m interested in the application of machine learning to financial analytics, including the adaptation of qualitative data, as well as decentralized finance (DeFi)
+- 🧠 I’m interested in the application of machine learning to financial analytics, including the adaptation of qualitative data to paint a more comprehensive picture
 - 🌱 I’m currently learning how to develop, implement, and optimize machine learning models with Python
 
 <!---

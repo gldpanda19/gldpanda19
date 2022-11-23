@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gldpanda19, but you can call me Garrett
-- 🧠 I’m interested in the application of machine learning to financial analytics, including the adaptation of qualitative data to paint a more comprehensive picture
+- 🧠 I’m interested in the application of machine learning to financial analytics, including the adoption of qualitative data in primarily quantitative models. The intersection of these two types of data can provide new and surprising insights, giving us a more comprehensive picture of the data we're trying to make sense of
 - 🌱 I’m currently learning how to develop, implement, and optimize machine learning models with Python
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gldpanda19, but you can call me Garrett.
-- 🧠 I’m interested in building apps for financial analytics and visualization. I create custom dashboards using tools like SQL, Python, and Streamlit, but I'm open to learning new tech stacks!
+- 🧠 I’m an aspiring full stack developer interested in building scalable web apps for financial analytics. My core languages are SQL, Python, and React/React Native. 
 - 🌱 I’m currently learning how to develop, implement, and optimize machine learning models in Python (Scipy, Scikitlearn, Keras, and Tensorflow).
 
 <!---
